@@ -1,0 +1,72 @@
+.section1 {
+    width: 100%;
+    background-color: cornflowerblue;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.child1 {
+    /* height: 200px; */
+    width: 30%;
+    background-color: gold;
+    display: flex;
+    justify-content: center;
+}
+
+.child2 {
+    /* height: 200px; */
+    width: 30%;
+    background-color: blue;
+    display: flex;
+    justify-content: center;
+}
+
+.child3 {
+    /* height: 200px; */
+    width: 30%;
+    background-color: red;
+    display: flex;
+    justify-content: center;
+}
+
+p {
+    font-size: 50px;
+}
+
+.section2 {
+    width: 100%;
+    background-color: rgb(22, 87, 207);
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 5px;
+}
+
+.child_1 {
+    /* height: 200px; */
+    width: 30%;
+    background-color: rgb(3, 0, 0);
+    color: white;
+    display: flex;
+    justify-content: center;
+}
+
+.child_2 {
+    /* height: 200px; */
+    width: 30%;
+    background-color: rgb(236, 19, 146);
+    display: flex;
+    justify-content: center;
+}
+
+p {
+    fo
+}
+
+.images {
+    margin-left: 50px;
+    margin-right: 50px;
+    /* background-color: aqua; */
+    display: flex;
+    justify-content: space-around;
+    padding: 20px;
+}
